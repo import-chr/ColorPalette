@@ -1,3 +1,5 @@
-#Respositorio para archivos de paletas de colores generado de
+#Respositorio para archivos .scss
 
-# https://colourco.de/
+Paletas de colores *[Colourcode][1]*
+
+[1]: https://colourco.de/
